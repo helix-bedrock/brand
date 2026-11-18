@@ -1,5 +1,7 @@
 # Helix brand
 
+[![Discord](https://img.shields.io/discord/1568071670097518763?label=discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/Fbmc69Gqr7)
+
 Logo files for [Helix](https://github.com/helix-bedrock).
 
 | File | Use |
